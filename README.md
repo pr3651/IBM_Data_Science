@@ -1,1 +1,1 @@
-## Data Science course & training
+## Data Science course & training provided by IBM 
